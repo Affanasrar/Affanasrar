@@ -66,7 +66,7 @@ My goal is to build software that solves real problems and to help students lear
 
 ## 🚀 Featured Projects
 
-### 🔹 IndusConnect  
+### 🔹 [IndusConnect](https://github.com/Affanasrar/indusconnect)  
 **Unified Enterprise Mobility & Logistics Platform**
 
 A final-year enterprise software project designed for large multi-branch organizations to manage employee transportation, travel requests, accommodation, finance workflows, and logistics operations through one centralized platform.
