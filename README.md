@@ -82,7 +82,7 @@ A final-year enterprise software project designed for large multi-branch organiz
 A practical student management system built to manage students, courses, class slots, enrollments, monthly fees, due reports, and institute-level academic records.
 
 **Key Focus:**  
-`Django` `Database Design` `Admin Dashboard` `Fee Management` `Education System`
+`TypeScript` `Database Design` `Admin Dashboard` `Fee Management` `Education System`
 
 ---
 
