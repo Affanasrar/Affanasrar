@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Affan Asrar
 
-### Computer Science Graduate | Full-Stack Developer | Technical Instructor
+### Computer Science Graduate | Full-Stack Web Developer | Technical Instructor
 
-I build scalable web applications, design practical software solutions, and turn real-world ideas into reliable digital products.
+I design and build modern web applications from the frontend interface to the backend systems, turning ideas into scalable digital products with clean architecture and strong user experience.
 
 <br>
 
@@ -18,9 +18,19 @@ I build scalable web applications, design practical software solutions, and turn
 
 ## 👨‍💻 Professional Summary
 
-I am a Computer Science graduate from Salim Habib University with a strong foundation in software development, system design, and modern web technologies. My work focuses on building full-stack applications, creating practical solutions for real users, and contributing to projects that combine technical quality with business value.
+I am a Computer Science graduate from Salim Habib University with a strong foundation in software development, system design, and modern web technologies. My work focuses on building full-stack web applications, creating practical solutions for real users, and contributing to projects that combine technical quality with business value.
 
-In addition to development, I work as a Technical Instructor at Shams Commercial Institute, where I design and deliver practical lessons in web development, programming, English communication, and generative AI. I am passionate about continuous learning, problem-solving, and helping others grow through technology.
+I enjoy working across the full development stack, from responsive user interfaces and modern frontend frameworks to APIs, databases, authentication, and deployment. In addition to development, I work as a Technical Instructor at Shams Commercial Institute, where I design and deliver practical lessons in web development, programming, English communication, and generative AI.
+
+---
+
+## ⚙️ Full-Stack Focus
+
+- Building responsive and user-friendly web interfaces
+- Developing robust backend services and RESTful APIs
+- Designing database models and managing application data
+- Creating scalable solutions with modern tools and cloud platforms
+- Bridging business needs with clean, maintainable code
 
 ---
 
