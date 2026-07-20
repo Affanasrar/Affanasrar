@@ -4,7 +4,7 @@
 
 ### Computer Science Graduate | Full-Stack Developer | Technical Instructor
 
-I build modern web applications, design practical software systems, and teach students how to turn programming concepts into real-world projects.
+I build scalable web applications, design practical software solutions, and turn real-world ideas into reliable digital products.
 
 <br>
 
@@ -16,17 +16,15 @@ I build modern web applications, design practical software systems, and teach st
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a **Computer Science Graduate from Salim Habib University** with a strong interest in **full-stack development, software architecture, cloud computing, AI, and system design**.
+I am a Computer Science graduate from Salim Habib University with a strong foundation in software development, system design, and modern web technologies. My work focuses on building full-stack applications, creating practical solutions for real users, and contributing to projects that combine technical quality with business value.
 
-Alongside my technical work, I also work as a **Technical Instructor at Shams Commercial Institute**, where I design and teach practical courses in **Web Development, Programming, English Language, and Generative AI**.
-
-My goal is to build software that solves real problems and to help students learn technology in a simple, practical, and industry-focused way.
+In addition to development, I work as a Technical Instructor at Shams Commercial Institute, where I design and deliver practical lessons in web development, programming, English communication, and generative AI. I am passionate about continuous learning, problem-solving, and helping others grow through technology.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Frontend Development
 
@@ -64,32 +62,32 @@ My goal is to build software that solves real problems and to help students lear
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🔹 [IndusConnect](https://github.com/Affanasrar/indusconnect)  
-**Unified Enterprise Mobility & Logistics Platform**
+**Enterprise Mobility & Logistics Platform**
 
-A final-year enterprise software project designed for large multi-branch organizations to manage employee transportation, travel requests, accommodation, finance workflows, and logistics operations through one centralized platform.
+A final-year software project focused on building a centralized system for transportation, travel requests, accommodation, finance workflows, and logistics operations across multi-branch organizations.
 
 **Key Focus:**  
-`Enterprise Software` `System Design` `Mobility Management` `Logistics` `Role-Based Access`
+`Enterprise Software` `System Design` `Mobility Management` `Role-Based Access`
 
 ---
 
 ### 🔹 [Shams Student Management System](https://github.com/Affanasrar/shams-sms)  
-**Institute Management System for Shams Commercial Institute**
+**Institute Management System**
 
-A practical student management system built to manage students, courses, class slots, enrollments, monthly fees, due reports, and institute-level academic records.
+A practical platform designed for managing students, courses, class schedules, enrollments, fee records, and academic operations in an education-focused environment.
 
 **Key Focus:**  
-`TypeScript` `Database Design` `Admin Dashboard` `Fee Management` `Education System`
+`TypeScript` `Database Design` `Admin Dashboard` `Fee Management`
 
 ---
 
 ### 🔹 [SHU Carpool](https://github.com/Affanasrar/SHU-Carpool-Web-app)  
-**University-Based Ride Sharing Platform**
+**University Ride-Sharing Platform**
 
-A localized carpooling solution designed for university students to improve daily commuting through secure ride sharing, route matching, and community-based travel coordination.
+A community-based web application designed to support student transportation through route matching and convenient ride coordination.
 
 **Key Focus:**  
 `Web Application` `Community Platform` `Route Matching` `Student Mobility`
@@ -99,37 +97,27 @@ A localized carpooling solution designed for university students to improve dail
 ### 🔹 [Car Rental Application](https://github.com/Affanasrar/car-rental-application)  
 **Full-Stack Car Rental Web Application**
 
-A car rental web application focused on vehicle listings, booking flow, clean UI structure, and practical web development implementation.
+A responsive and user-friendly rental platform built around vehicle listings, booking flow, and practical end-to-end web development implementation.
 
 **Key Focus:**  
-`React` `Full-Stack Development` `Web Application` `UI Design`
-
----
-
-### 🔹 [ECS Commerce Demo](https://github.com/Affanasrar/ecs-commerce-demo)  
-**Cloud-Based E-Commerce Deployment Demo**
-
-A cloud computing project focused on containerized application deployment and AWS-based infrastructure learning.
-
-**Key Focus:**  
-`AWS` `ECS` `Docker` `Cloud Deployment` `DevOps`
+`React` `Full-Stack Development` `UI Design` `Web Application`
 
 ---
 
 ## 📚 Teaching & Mentoring
 
-I enjoy teaching technical concepts in a way that is simple, structured, and practical.
+I enjoy creating clear, practical learning experiences that connect theory with real-world implementation.
 
-At **Shams Commercial Institute**, I help students learn by building real projects instead of only memorizing theory.
+At Shams Commercial Institute, I help students build confidence in technology through hands-on projects, structured instruction, and industry-relevant guidance.
 
-### Areas I Teach
+### Areas of Instruction
 
 - Web Development
 - HTML, CSS, and JavaScript
 - Git and GitHub
 - Python Programming
 - Generative AI Tools
-- English Language Communication
+- English Communication
 - Project-Based Learning
 
 ---
@@ -157,22 +145,21 @@ At **Shams Commercial Institute**, I help students learn by building real projec
 ## 🎯 Current Focus
 
 - Building production-ready full-stack applications
-- Improving system design and software architecture skills
-- Learning advanced cloud deployment workflows
-- Creating practical coding projects for students
-- Exploring AI-powered educational tools
+- Strengthening software architecture and system design skills
+- Exploring cloud deployment and scalable solutions
+- Creating practical projects for learners and teams
+- Contributing to meaningful, impact-driven software work
 
 ---
 
 ## 🤝 Let's Connect
 
-I am always open to learning, collaboration, teaching opportunities, and building meaningful software projects.
+I am always open to opportunities in software development, collaboration, teaching, and meaningful technical projects.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Affan%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-ahmed-795810257/)
 [![GitHub](https://img.shields.io/badge/GitHub-Affanasrar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Affanasrar)
-[![Twitter](https://img.shields.io/badge/Twitter-affanahmed__LYA-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/affanahmed_LYA)
 [![Instagram](https://img.shields.io/badge/Instagram-affan__ahmed05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/affan_ahmed05/)
 
 </div>
