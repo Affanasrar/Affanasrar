@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Affan Asrar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Affan%20Asrar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header banner" />
+
+# Hi, I'm Affan Asrar
 
 ### Computer Science Graduate | Full-Stack Web Developer | Technical Instructor
 
-I design and build modern web applications from the frontend interface to the backend systems, turning ideas into scalable digital products with clean architecture and strong user experience.
+I build modern web applications, teach practical technology, and turn ideas into clean, scalable digital products.
 
 <br>
 
@@ -16,15 +18,15 @@ I design and build modern web applications from the frontend interface to the ba
 
 ---
 
-## 👨‍💻 Professional Summary
+## About Me
 
-I am a Computer Science graduate from Salim Habib University with a strong foundation in software development, system design, and modern web technologies. My work focuses on building full-stack web applications, creating practical solutions for real users, and contributing to projects that combine technical quality with business value.
+I am a Computer Science graduate from Salim Habib University with a strong foundation in software development, system design, and modern web technologies. My focus is on building full-stack web applications that feel practical, reliable, and easy to use.
 
-I enjoy working across the full development stack, from responsive user interfaces and modern frontend frameworks to APIs, databases, authentication, and deployment. In addition to development, I work as a Technical Instructor at Shams Commercial Institute, where I design and deliver practical lessons in web development, programming, English communication, and generative AI.
+I work across the stack, from responsive interfaces and frontend architecture to APIs, databases, authentication, and deployment. Alongside development, I teach at Shams Commercial Institute, where I design and deliver practical lessons in web development, programming, English communication, and generative AI.
 
 ---
 
-## ⚙️ Full-Stack Focus
+## What I Focus On
 
 - Building responsive and user-friendly web interfaces
 - Developing robust backend services and RESTful APIs
@@ -34,9 +36,9 @@ I enjoy working across the full development stack, from responsive user interfac
 
 ---
 
-## 🛠️ Technical Skills
+## Stack
 
-### Frontend Development
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -46,7 +48,7 @@ I enjoy working across the full development stack, from responsive user interfac
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
+### Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -55,66 +57,52 @@ I enjoy working across the full development stack, from responsive user interfac
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-### Programming & AI
+### Programming & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-
-### Cloud, DevOps & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Selected Projects
+## Featured Work
 
-### 🔹 [IndusConnect](https://github.com/Affanasrar/indusconnect)  
-**Enterprise Mobility & Logistics Platform**
+### [IndusConnect](https://github.com/Affanasrar/indusconnect)
+Enterprise Mobility & Logistics Platform
 
-A final-year software project focused on building a centralized system for transportation, travel requests, accommodation, finance workflows, and logistics operations across multi-branch organizations.
+A final-year project focused on transportation, travel requests, accommodation, finance workflows, and logistics operations across multi-branch organizations.
 
-**Key Focus:**  
-`Enterprise Software` `System Design` `Mobility Management` `Role-Based Access`
+**Focus:** Enterprise Software, System Design, Mobility Management, Role-Based Access
 
----
+### [Shams Student Management System](https://github.com/Affanasrar/shams-sms)
+Institute Management System
 
-### 🔹 [Shams Student Management System](https://github.com/Affanasrar/shams-sms)  
-**Institute Management System**
+A practical platform for managing students, courses, schedules, enrollments, fee records, and academic operations in an education-focused environment.
 
-A practical platform designed for managing students, courses, class schedules, enrollments, fee records, and academic operations in an education-focused environment.
+**Focus:** TypeScript, Database Design, Admin Dashboard, Fee Management
 
-**Key Focus:**  
-`TypeScript` `Database Design` `Admin Dashboard` `Fee Management`
+### [SHU Carpool](https://github.com/Affanasrar/SHU-Carpool-Web-app)
+University Ride-Sharing Platform
 
----
+A community-based web application that supports student transportation through route matching and ride coordination.
 
-### 🔹 [SHU Carpool](https://github.com/Affanasrar/SHU-Carpool-Web-app)  
-**University Ride-Sharing Platform**
+**Focus:** Web Application, Community Platform, Route Matching, Student Mobility
 
-A community-based web application designed to support student transportation through route matching and convenient ride coordination.
+### [Car Rental Application](https://github.com/Affanasrar/car-rental-application)
+Full-Stack Car Rental Web Application
 
-**Key Focus:**  
-`Web Application` `Community Platform` `Route Matching` `Student Mobility`
+A responsive rental platform built around vehicle listings, booking flow, and practical end-to-end implementation.
 
----
-
-### 🔹 [Car Rental Application](https://github.com/Affanasrar/car-rental-application)  
-**Full-Stack Car Rental Web Application**
-
-A responsive and user-friendly rental platform built around vehicle listings, booking flow, and practical end-to-end web development implementation.
-
-**Key Focus:**  
-`React` `Full-Stack Development` `UI Design` `Web Application`
+**Focus:** React, Full-Stack Development, UI Design, Web Application
 
 ---
 
-## 📚 Teaching & Mentoring
+## Teaching & Mentoring
 
 I enjoy creating clear, practical learning experiences that connect theory with real-world implementation.
 
@@ -132,7 +120,7 @@ At Shams Commercial Institute, I help students build confidence in technology th
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -147,7 +135,7 @@ At Shams Commercial Institute, I help students build confidence in technology th
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building production-ready full-stack applications
 - Strengthening software architecture and system design skills
@@ -157,9 +145,9 @@ At Shams Commercial Institute, I help students build confidence in technology th
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-I am always open to opportunities in software development, collaboration, teaching, and meaningful technical projects.
+I am open to opportunities in software development, collaboration, teaching, and meaningful technical projects.
 
 <div align="center">
 
@@ -173,6 +161,6 @@ I am always open to opportunities in software development, collaboration, teachi
 
 <div align="center">
 
-### “Learning by building, teaching by simplifying.”
+### Learning by building, teaching by simplifying.
 
 </div>
