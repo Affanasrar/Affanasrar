@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Affanasrar">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=190&section=header&text=AFFAN%20ASRAR&fontSize=54&fontColor=67e8f9&fontAlignY=45&desc=BUILDING%20DIGITAL%20PRODUCTS%20THAT%20PEOPLE%20ACTUALLY%20WANT%20TO%20USE&descSize=13&descAlignY=72&descAlign=50" alt="Affan Asrar — Full-Stack Web Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=220&section=header&text=AFFAN%20ASRAR&fontSize=58&fontColor=ffffff&fontAlignY=42&stroke=22d3ee&strokeWidth=1&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20PRODUCT%20BUILDER&descSize=16&descColor=67e8f9&descAlignY=68&descAlign=50&animation=fadeIn" alt="Affan Asrar — Full-Stack Developer and Product Builder" />
 </a>
 
 <br />
