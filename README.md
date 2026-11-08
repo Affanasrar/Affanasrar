@@ -1,82 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0f766e,100:06b6d4&height=240&section=header&text=Affan%20Asrar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=57&descSize=20" alt="Affan Asrar — Full-Stack Web Developer" />
+<a href="https://github.com/Affanasrar">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=190&section=header&text=AFFAN%20ASRAR&fontSize=54&fontColor=67e8f9&fontAlignY=45&desc=BUILDING%20DIGITAL%20PRODUCTS%20THAT%20PEOPLE%20ACTUALLY%20WANT%20TO%20USE&descSize=13&descAlignY=72&descAlign=50" alt="Affan Asrar — Full-Stack Web Developer" />
+</a>
 
-<h1>Hi, I'm Affan 👋</h1>
+<br />
 
-<p>
-  <strong>Full-stack web developer</strong> building reliable, user-focused products from idea to deployment.
-  <br />
-  I turn complex workflows into clean interfaces, maintainable APIs, and practical software.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/affan-ahmed-795810257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Available%20for-Opportunities-16A34A?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for opportunities" />
-  <a href="https://github.com/Affanasrar"><img src="https://img.shields.io/badge/GitHub-Affanasrar-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</p>
+<a href="https://www.linkedin.com/in/affan-ahmed-795810257/"><img src="https://img.shields.io/badge/Let's%20connect-06b6d4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-111827?style=flat-square&logo=codeforces&logoColor=67e8f9" alt="Focus: Full-Stack Development" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20work-166534?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to work" />
 
 </div>
 
-## What I Bring
+<br />
 
-- **End-to-end ownership:** responsive frontend, backend APIs, databases, authentication, and deployment.
-- **Product-minded engineering:** thoughtful UX, clear architecture, and solutions built around real user needs.
-- **Practical communication:** I also teach web development and programming, making complex ideas easier to understand.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## Selected Projects
+## `whoami`
 
-| Project | What it demonstrates |
-| --- | --- |
-| **[IndusConnect](https://github.com/Affanasrar/indusconnect)** | Enterprise mobility and logistics platform with multi-branch workflows, travel requests, accommodation, finance, and role-based access. |
-| **[Shams SMS](https://github.com/Affanasrar/shams-sms)** | Student management system covering courses, schedules, enrollments, fees, and academic administration. |
-| **[SHU Carpool](https://github.com/Affanasrar/SHU-Carpool-Web-app)** | Community ride-sharing platform for route matching and student transportation coordination. |
-| **[Car Rental Application](https://github.com/Affanasrar/car-rental-application)** | Full-stack rental experience with vehicle listings, booking flows, and responsive UI. |
+I’m **Affan**, a computer science graduate and full-stack developer who enjoys turning messy problems into simple, useful software.
 
-## Technical Toolkit
+I work across the product lifecycle — understanding the problem, designing the experience, building the system, and shipping it with care. I also teach technology, which keeps me curious and makes me a clearer teammate.
+
+**My sweet spot:** dashboards, workflow-heavy platforms, admin systems, and products that connect people with better services.
+
+</td>
+<td width="45%" valign="top">
+
+```text
+┌─────────────────────────────────┐
+│  affan@github ~ $ ./build.sh    │
+├─────────────────────────────────┤
+│  ✓ clean interface              │
+│  ✓ reliable API                 │
+│  ✓ thoughtful data model        │
+│  ✓ production-minded delivery  │
+├─────────────────────────────────┤
+│  status: shipping                 │
+└─────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+## What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ✦ Product Interfaces
+
+Responsive, accessible experiences that make complicated workflows feel straightforward.
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ Application Systems
+
+APIs, authentication, business logic, and databases designed to support real users.
+
+</td>
+<td width="33%" valign="top">
+
+### ↗ Delivery
+
+Clean Git workflows, Dockerized services, cloud deployment, and documentation teams can trust.
+
+</td>
+</tr>
+</table>
+
+## Work I'm Proud Of
+
+### [IndusConnect](https://github.com/Affanasrar/indusconnect) · Enterprise Mobility Platform
+
+My flagship project: a multi-branch platform for transportation, travel requests, accommodation, finance workflows, and logistics operations. It demonstrates domain modeling, role-based access, and building software around complex organizational processes.
+
+`Enterprise workflows` `Role-based access` `System design`
+
+### [Shams SMS](https://github.com/Affanasrar/shams-sms) · Education Operations
+
+A practical student management system for courses, schedules, enrollments, fee records, and academic administration — focused on replacing scattered manual processes with one connected workspace.
+
+`TypeScript` `Admin dashboard` `Database design`
+
+### [SHU Carpool](https://github.com/Affanasrar/SHU-Carpool-Web-app) · Community Mobility
+
+A student-focused ride-sharing platform that helps people coordinate routes and find better transportation options through a simple web experience.
+
+`Community platform` `Route matching` `User experience`
+
+<div align="right">
+  <a href="https://github.com/Affanasrar?tab=repositories"><strong>Explore all repositories →</strong></a>
+</div>
+
+## My Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,cpp,postgres,mongodb,prisma,docker,aws,git,github&perline=10" alt="Technologies: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, Java, C++, PostgreSQL, MongoDB, Prisma, Docker, AWS, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,java,postgres,mongodb,prisma,docker,aws,git,github&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, Java, PostgreSQL, MongoDB, Prisma, Docker, AWS, Git, GitHub" />
 </p>
 
 <details>
-<summary><strong>How I work across the stack</strong></summary>
-<br />
+<summary><strong>See the full stack</strong></summary>
 
-| Layer | Focus |
+| Area | Technologies |
 | --- | --- |
-| **Frontend** | Accessible, responsive interfaces with React, Next.js, TypeScript, and Tailwind CSS |
-| **Backend** | RESTful APIs, authentication, business logic, and integrations with Node.js and Express |
-| **Data** | Relational and document data modeling with PostgreSQL, MongoDB, Prisma, and SQLite |
-| **Delivery** | Git-based collaboration, Dockerized services, cloud deployment, and maintainable documentation |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python, REST APIs, authentication |
+| **Data** | PostgreSQL, MongoDB, Prisma, SQLite |
+| **Engineering** | Git, GitHub, Docker, AWS, responsive design, system design |
 
 </details>
 
-## Experience Beyond Code
+## Beyond the Code
 
-As a technical instructor at **Shams Commercial Institute**, I teach web development, programming, Git/GitHub, generative AI tools, and project-based problem solving. Teaching strengthens the same skills I bring to engineering teams: clear communication, structured thinking, and reliable execution.
+As a technical instructor at **Shams Commercial Institute**, I teach web development, programming, Git/GitHub, generative AI tools, and project-based problem solving.
 
-## Currently
+Teaching has shaped how I build: understand the audience, remove unnecessary complexity, and communicate decisions clearly.
 
-- Building production-minded full-stack applications
-- Deepening my skills in system design, cloud deployment, and scalable architecture
-- Open to **full-stack development roles, freelance projects, and collaborative product work**
+## Right Now
 
-## Let's Build Something Useful
-
-If you are looking for a developer who can understand the problem, build across the stack, and communicate clearly, **[let's connect on LinkedIn](https://www.linkedin.com/in/affan-ahmed-795810257/)**.
+```diff
++ building production-minded full-stack applications
++ exploring cloud deployment and scalable architecture
++ improving system design through real project work
++ looking for teams solving meaningful problems
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Affanasrar&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Affan's GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanasrar&layout=compact&hide_border=true&theme=tokyonight" alt="Affan's most used programming languages" width="40%" />
+## Have a problem worth solving?
+
+<a href="https://www.linkedin.com/in/affan-ahmed-795810257/">
+  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" />
+</a>
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Affanasrar&show_icons=true&hide_border=true&bg_color=0b1020&title_color=67e8f9&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github&include_all_commits=true" alt="Affan's GitHub statistics" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanasrar&layout=compact&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1" alt="Affan's most used programming languages" width="39%" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Affanasrar&style=flat-square&color=0e7490&label=Profile%20views" alt="Profile views" />
+<sub>Designed, built, and continuously improved by Affan Asrar.</sub>
 
-</div>
-
-<div align="center">
-  <sub>Build with purpose. Learn continuously. Ship thoughtfully.</sub>
 </div>
