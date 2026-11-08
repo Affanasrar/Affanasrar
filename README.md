@@ -29,18 +29,18 @@ I work across the product lifecycle — understanding the problem, designing the
 </td>
 <td width="45%" valign="top">
 
-```text
-┌─────────────────────────────────┐
-│  affan@github ~ $ ./build.sh    │
-├─────────────────────────────────┤
-│  ✓ clean interface              │
-│  ✓ reliable API                 │
-│  ✓ thoughtful data model        │
-│  ✓ production-minded delivery  │
-├─────────────────────────────────┤
-│  status: shipping                 │
-└─────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-Useful%20digital%20products-0b1020?style=for-the-badge&labelColor=06b6d4" alt="Building useful digital products" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/01-Thoughtful%20UX-172554?style=flat-square&logo=figma&logoColor=67e8f9" alt="Thoughtful user experience" />
+<img src="https://img.shields.io/badge/02-Scalable%20APIs-172554?style=flat-square&logo=fastapi&logoColor=67e8f9" alt="Scalable APIs" />
+<img src="https://img.shields.io/badge/03-Clean%20Data%20Models-172554?style=flat-square&logo=postgresql&logoColor=67e8f9" alt="Clean data models" />
+<img src="https://img.shields.io/badge/04-Production%20Delivery-172554?style=flat-square&logo=docker&logoColor=67e8f9" alt="Production delivery" />
+
+</div>
 
 </td>
 </tr>
