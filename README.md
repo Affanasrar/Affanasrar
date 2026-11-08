@@ -90,11 +90,19 @@ Clean Git workflows, Dockerized services, cloud deployment, and documentation te
 
 My flagship project: a multi-branch platform for transportation, travel requests, accommodation, finance workflows, and logistics operations. It demonstrates domain modeling, role-based access, and building software around complex organizational processes.
 
+<p align="center">
+  <img src="./assets/indusconnect-login.png" alt="IndusConnect enterprise identity and access login screen" width="92%" />
+</p>
+
 `Enterprise workflows` `Role-based access` `System design`
 
 ### [Shams SMS](https://github.com/Affanasrar/shams-sms) · Education Operations
 
 A practical student management system for courses, schedules, enrollments, fee records, and academic administration — focused on replacing scattered manual processes with one connected workspace.
+
+<p align="center">
+  <img src="./assets/shams-sms-login.png" alt="Shams SMS school management login screen" width="92%" />
+</p>
 
 `TypeScript` `Admin dashboard` `Database design`
 
