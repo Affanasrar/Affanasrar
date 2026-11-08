@@ -141,8 +141,16 @@ Teaching has shaped how I build: understand the audience, remove unnecessary com
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Affanasrar&show_icons=true&hide_border=true&bg_color=0b1020&title_color=67e8f9&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github&include_all_commits=true" alt="Affan's GitHub statistics" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanasrar&layout=compact&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1" alt="Affan's most used programming languages" width="39%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Affanasrar&theme=github_dark" alt="Affan's GitHub activity summary" width="90%" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Affanasrar&theme=github_dark" alt="Affan's GitHub statistics" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Affanasrar&theme=github_dark" alt="Affan's repositories by language" width="44%" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Affanasrar&theme=github-dark-blue&hide_border=true&background=0B1020&ring=67E8F9&fire=22D3EE&currStreakLabel=67E8F9" alt="Affan's GitHub contribution streak" width="65%" />
 
 <br />
 
