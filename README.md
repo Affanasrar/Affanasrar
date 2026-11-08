@@ -140,14 +140,30 @@ As a technical instructor at **Shams Commercial Institute**, I teach web develop
 
 Teaching has shaped how I build: understand the audience, remove unnecessary complexity, and communicate decisions clearly.
 
-## Right Now
+## Now / Next
 
-```diff
-+ building production-minded full-stack applications
-+ exploring cloud deployment and scalable architecture
-+ improving system design through real project work
-+ looking for teams solving meaningful problems
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### In the build
+
+Shipping full-stack products with clean interfaces, dependable APIs, and systems designed for real-world use.
+
+</td>
+<td width="50%" valign="top">
+
+### On the radar
+
+Cloud deployment, scalable architecture, and stronger system design through hands-on projects.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <strong>Open to building meaningful products with ambitious teams.</strong>
+</p>
 
 <div align="center">
 
