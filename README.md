@@ -18,13 +18,16 @@
 <tr>
 <td width="55%" valign="top">
 
-## `whoami`
+## Building with purpose.
 
-I’m **Affan**, a computer science graduate and full-stack developer who enjoys turning messy problems into simple, useful software.
+**I turn complex workflows into simple digital products.**
 
-I work across the product lifecycle — understanding the problem, designing the experience, building the system, and shipping it with care. I also teach technology, which keeps me curious and makes me a clearer teammate.
+Full-stack developer with a product mindset — combining thoughtful interfaces, reliable backend systems, and practical data models to make software easier to use and easier to grow.
 
-**My sweet spot:** dashboards, workflow-heavy platforms, admin systems, and products that connect people with better services.
+<p>
+  <strong>From first idea → to a working product.</strong><br />
+  <sub>Discover the problem&nbsp;&nbsp;·&nbsp;&nbsp;Design the experience&nbsp;&nbsp;·&nbsp;&nbsp;Build the system&nbsp;&nbsp;·&nbsp;&nbsp;Ship with confidence</sub>
+</p>
 
 </td>
 <td width="45%" valign="top">
